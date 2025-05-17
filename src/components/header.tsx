@@ -6,7 +6,7 @@ const HeaderPage = () => {
   return (
     <div className="grid grid-cols-3 h-14 items-center">
       <div className="flex justify-start">
-        <h1 className="font-bold text-xl">Topic Nexus</h1>
+        <h1 className="font-bold text-xl">TopicNexus</h1>
       </div>
       <div className="flex justify-center">
         <Suspense>
